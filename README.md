@@ -21,6 +21,4 @@ This project contains a Dockerfile that sets up an Nginx server on an Ubuntu bas
 - The Dockerfile installs Nginx, Node.js, and Bootstrap.
 - Static content is copied from the `static-content` folder into `/var/www/html/` for Nginx to serve.
 
-## Screenshots
-(Screenshots should be included here)
 
